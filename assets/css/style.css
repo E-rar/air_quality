@@ -1,0 +1,21 @@
+h2{
+    display:inline;
+}
+h5{
+    display:inline;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:0;
+    padding:0;
+    transition: 0.5s ease ;
+}
+input[type="range"] {
+    width:400px;
+  }
+
+form{
+    padding:30% 0 0 0;
+}
